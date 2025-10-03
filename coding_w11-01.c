@@ -1,12 +1,12 @@
 #include <stdio.h>
 
 void inputAndShow() {
-    int math, physics, chemistry;
+    int math, physics, chemistry;         
 
     printf("Enter Math: ");
-    scanf("%d", &math);
-
-    printf("Enter Physics: ");
+    scanf("%d", &math);       
+             
+    printf("Enter Physics: ");             
     scanf("%d", &physics);
 
     printf("Enter Chemistry: ");
